@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wamiq-haider
-- 👀 I’m interested in ... C/C++, Python OOP, Java, Game design
+- 👀 I’m interested in ... C/C++, Python OOP, JavaScript, Full Stack Web Devolopment and Game design
 - 🌱 I’m currently learning ... C/C++, Data structures, Verilog, Database design
 - 💞️ I’m looking to collaborate on ... any type of project focused around the film industry
 - 📫 How to reach me ...my email: swamiqhz234@gmail.com, my twitter: yeaitswamiq
